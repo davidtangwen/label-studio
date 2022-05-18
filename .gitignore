@@ -70,3 +70,4 @@ deploy/pgsql/certs/*
 */*/1/*
 label_studio/tavern-output.json
 docker-compose.override.yml
+label_studio/frontend/*
